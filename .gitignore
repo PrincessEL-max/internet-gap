@@ -1,0 +1,3 @@
+data/*.parquet
+raw/
+data/idn_adm2.geojson
